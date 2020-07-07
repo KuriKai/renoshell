@@ -32,7 +32,9 @@ struct offsets offsets[] = {
 	{ "G8142_47.1.A.3.254",
 	  (void *)0xffffff800a901460, (void *)0xffffff800a901270, (void *)0xffffff800a8fddb4, (void *)0xffffff800a614490, (void *)0xffffff800a61deb0 },
 #endif
-
+	// XZ1 Compact
+	{ "G8441_47.1.A.12.235",
+	  (void *)0xffffff800a903460, (void *)0xffffff800a903270, (void *)0xffffff800a8ffdb4, (void *)0xffffff800a614490, (void *)0xffffff800a61deb0 },
 	// XZ1 Compact
 	{ "G8441_47.1.A.16.20",
 	  (void *)0xffffff800a903460, (void *)0xffffff800a903270, (void *)0xffffff800a8ffdb4, (void *)0xffffff800a614490, (void *)0xffffff800a61deb0 },
